@@ -15,7 +15,7 @@ echo -e $BlueF "
 |/_____\|/_____\|   |/_____\|/_____\|/_____\|/_____\|/_____\|/_____\|/_____\|
 
  "
-echo -e $red "Para chamar o menu de opições pressione ENTER"
+echo -e $red "Para chamar o menu de opções pressione ENTER"
 echo -e $yellow "Digite o Número Desejado"
 echo -e $cyan "                                          [Autor: Anderson.b.Silva]"
 echo ""
