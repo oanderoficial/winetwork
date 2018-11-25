@@ -10,3 +10,15 @@
 </ol>
 <img src="https://raw.githubusercontent.com/And3R66/winetwork/master/1.png">
 <img src="https://raw.githubusercontent.com/And3R66/winetwork/master/2.png">
+
+# :exclamation: Requirements
+
+<ul>
+<li>
+<p>A linux operating system.</p>
+</li>
+<li>
+<p>net-tools
+</p>
+</li>
+</ul>
