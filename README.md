@@ -8,8 +8,8 @@
 <li><code>chmod a+x winetwork.sh</code></li>
 <li><code>sudo ./winetwork.sh ou sudo su ./winetwork.sh</code></li>
 </ol>
-<img src="https://raw.githubusercontent.com/And3R66/winetwork/master/1.png">
-<img src="https://raw.githubusercontent.com/And3R66/winetwork/master/2.png">
+<img src="https://raw.githubusercontent.com/And3R66/winetwork/master/i1.png">
+<img src="https://raw.githubusercontent.com/And3R66/winetwork/master/i2.png">
 
 # :exclamation: Requirements
 
