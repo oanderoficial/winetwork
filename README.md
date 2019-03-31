@@ -7,7 +7,7 @@
 <li><code>git clone https://github.com/oandersonbsilva/winetwork.git</code></li>
 <li><code>cd winetwork</code></li>
 <li><code>chmod a+x winetwork.sh</code></li>
-<li><code>sudo ./winetwork.sh ou sudo su ./winetwork.sh</code></li>
+<li><code> ./winetwork.sh </code></li>
 </ol>
 <img src="https://raw.githubusercontent.com/And3R66/winetwork/master/i1.png">
 <img src="https://raw.githubusercontent.com/And3R66/winetwork/master/i2.png">
