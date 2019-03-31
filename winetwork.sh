@@ -1,5 +1,4 @@
-#!/bin/bash
-
+#!/usr/bin/env bash
 
 BlueF='\e[1;34m'
 cyan='\e[0;36m'
