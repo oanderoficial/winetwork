@@ -21,7 +21,7 @@ echo -e $cyan "                                          [Autor: Anderson.b.Silv
 echo ""
 
 
-select i in  placas/ativas Desabilitar/eth0 Rotas portas/abertas Conexões/TCP processos/ativos uptime logins/efetuados endereços/configurados Rede scanner Espaço/Disco Sistema Logs sair
+select i in  placas/ativas Desabilitar/eth0 Rotas portas/abertas Conexões/TCP processos/ativos uptime logins/efetuados endereços/configurados Rede Espaço/Disco Sistema Logs sair
 do
 
    case "$i" in
@@ -88,20 +88,7 @@ do
    echo -e "[+] Internet OK!\n"
    sleep 0.15
    ;;
-
-   scanner)
-   echo ""
-   echo -e "\tDigite o ip: \n"
-   read ip
-   echo -e "\tColoque o primeiro numero de: \n"
-   read porta
-   echo -e "\tColoque o segundo numero $porta ha:\n"
-   read porta2
-   echo -e "\tcontinuar [enter]\n"
-   read
-   echo -e `netcat -vv $ip $porta\-\$porta2`
-   ;;
-
+   
    Espaço/Disco)
    echo "Verificação de espaço em disco"
    df -h
