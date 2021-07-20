@@ -24,6 +24,4 @@
 </li>
 </ul>
 
-# Minhas Redes
-<code><img height="100" width="100" src="https://raw.githubusercontent.com/oandersonbsilva/oandersonbsilva/master/code.png"></code>
 
