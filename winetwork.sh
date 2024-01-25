@@ -5,6 +5,7 @@ cyan='\e[0;36m'
 red='\e[1;31m'
 yellow='\e[1;33m'
 
+#Definindo funções 
 
 funcion_placas(){
        echo "*** listar as placas ativas ***"
